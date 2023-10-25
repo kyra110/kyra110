@@ -1,6 +1,9 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=kyra110.kyra110" />
-<img  src="https://pbs.twimg.com/profile_banners/1625870697263235072/1697567030/600x200" />
 
+<div align =center>
+<img  src="https://pbs.twimg.com/profile_banners/1625870697263235072/1697567030/600x200" />
+<div/>
+    
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Salut!+👋;+C'est+Kyra+Coding!;" />
 </h1>
