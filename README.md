@@ -1,7 +1,7 @@
 <img alt="compteur de visites" align="right" src="https://visitor-badge.laobi.icu/badge?page_id=kyra110.kyra110" />
 <br/>
 <div align =center>
-<img  alt="Banière Kyra Coding" width="100%" height="auto" src="https://pbs.twimg.com/profile_banners/1625870697263235072/1697567030/600x200" />
+<img  alt="Banière Kyra Coding" width="100%" src="https://pbs.twimg.com/profile_banners/1625870697263235072/1697567030/600x200" />
 <div/>
     
 <h1 align="center">
