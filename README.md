@@ -1,4 +1,5 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=kyra110.kyra110" />
+<img align="right" src="https://studio.youtube.com/channel/UCcs9j6AZWBkrfuLz9W8tknA/editing/images" />
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Salut!+👋;+C'est+Kyra+Coding!;" />
