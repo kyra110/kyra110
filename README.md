@@ -16,8 +16,8 @@
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank" />
   </a>
    </p>
-   <p>💡 J'apprends actuellement le **JavaScript.**</p>
-   <p>📚 Je suis actuellement en train de travailler sur **le Projet n°5.** </p>
+   <p>💡 J'apprends actuellement le JavaScript.</p>
+   <p>📚 Je suis actuellement en train de travailler sur le Projet n°5. </p>
 </div>
 
 <img alt="compteur de visites" align="right" src="https://visitor-badge.laobi.icu/badge?page_id=kyra110.kyra110" />
