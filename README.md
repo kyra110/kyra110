@@ -12,6 +12,7 @@
   <a href="https://www.youtube.com/channel/UCcs9j6AZWBkrfuLz9W8tknA" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank" />
   </a>
+  <br/>
   💡 J'apprends actuellement le **JavaScript.**
   📚 Je suis actuellement en train de travailler sur **le Projet n°5.**  
 </div>
