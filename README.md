@@ -8,7 +8,7 @@
 
 <br/>
 
-<div align="center">
+<div align="left">
  
  📚 Je suis actuellement en train de travailler sur **le Projet n°5.** 
  
