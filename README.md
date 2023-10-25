@@ -10,12 +10,14 @@
 <br/>
 
 <div align="center">
+  <strong>
    <p>  
-  ⚡ <em>Kyra Coding<em/>
-  <a href="https://www.youtube.com/channel/UCcs9j6AZWBkrfuLz9W8tknA" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank" />
-  </a>
+     ⚡ Kyra Coding
+     <a href="https://www.youtube.com/channel/UCcs9j6AZWBkrfuLz9W8tknA" target="_blank">
+     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank" />
+     </a>
    </p>
+<strong/>
    <p>💡 J'apprends actuellement le JavaScript.</p>
    <p>📚 Je suis actuellement en train de travailler sur le Projet n°5. </p>
 </div>
