@@ -15,7 +15,7 @@
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank" />
   </a>
   
- 💡 J'apprends le **JavaScript.**
+ 💡 J'apprends actuellement le **JavaScript.**
  
  📚 Je suis actuellement en train de travailler sur **le Projet n°5.** 
  
