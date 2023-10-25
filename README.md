@@ -14,7 +14,7 @@
  
  💡 J'apprends le **JavaScript.**
 
- ⚡ Chaine Youtube **[Kyra Coding] (https://www.youtube.com/channel/UCcs9j6AZWBkrfuLz9W8tknA).**
+ ⚡ Chaine Youtube **[Kyra Coding] (https://www.youtube.com/channel/UCcs9j6AZWBkrfuLz9W8tknA)**
  
  </div>
 
