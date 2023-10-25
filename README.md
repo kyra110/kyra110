@@ -14,7 +14,9 @@
  
  💡 J'apprends le **JavaScript.**
 
- ⚡ Chaine Youtube **[Kyra Coding] (https://www.youtube.com/channel/UCcs9j6AZWBkrfuLz9W8tknA)**
+ <a href="[mailto:pedro.sales.muniz@gmail.com](https://www.youtube.com/channel/UCcs9j6AZWBkrfuLz9W8tknA)">
+    ⚡ Chaine Youtube **[Kyra Coding]**
+  </a>
  
  </div>
 
