@@ -7,14 +7,15 @@
 
 <br/>
 
-<div align="center"> 
+<div align="center">
+   <p>  
   ⚡ **Kyra Coding**
   <a href="https://www.youtube.com/channel/UCcs9j6AZWBkrfuLz9W8tknA" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank" />
   </a>
-  <br/>
-  💡 J'apprends actuellement le **JavaScript.**
-  📚 Je suis actuellement en train de travailler sur **le Projet n°5.**  
+   </p>
+   <p>💡 J'apprends actuellement le **JavaScript.**</p>
+   <p>📚 Je suis actuellement en train de travailler sur **le Projet n°5.** </p>
 </div>
 
 <img alt="compteur de visites" align="right" src="https://visitor-badge.laobi.icu/badge?page_id=kyra110.kyra110" />
