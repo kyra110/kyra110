@@ -4,6 +4,20 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Salut!+👋;+C'est+Kyra+Coding!;" />
 </h1>
 
+<h3 align="center">Etudiant Chez OpenClassrooms</h3>
+
+<br/>
+
+<div align="center">
+ 
+ 📚 Je suis actuellement en train de travailler sur **le Projet n°5.** 
+ 
+ 💡 J'apprends le **JavaScript.**
+
+ ⚡ Chaine Youtube **[Kyra Coding] (https://www.youtube.com/channel/UCcs9j6AZWBkrfuLz9W8tknA).**
+ 
+ </div>
+
 <!--
 **kyra110/kyra110** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
