@@ -8,16 +8,17 @@
 
 <br/>
 
-<div align="left">
+<div align="center">
  
- 📚 Je suis actuellement en train de travailler sur **le Projet n°5.** 
- 
- 💡 J'apprends le **JavaScript.**
-
  ⚡ **Kyra Coding**
  <a href="https://www.youtube.com/channel/UCcs9j6AZWBkrfuLz9W8tknA" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank" />
   </a>
+  
+ 💡 J'apprends le **JavaScript.**
+ 
+ 📚 Je suis actuellement en train de travailler sur **le Projet n°5.** 
+ 
  </div>
 <!--
 **kyra110/kyra110** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
