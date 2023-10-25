@@ -15,10 +15,9 @@
  💡 J'apprends le **JavaScript.**
 
  **<a href="https://www.youtube.com/channel/UCcs9j6AZWBkrfuLz9W8tknA" target="_blank">
-    ⚡ Chaine Youtube [Kyra Coding]
+    ⚡ Chaine Youtube [Kyra Coding]<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank" />
   </a>**
  </div>
-
 <!--
 **kyra110/kyra110** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
