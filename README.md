@@ -14,7 +14,7 @@
  
  💡 J'apprends le **JavaScript.**
 
- **<a href="(https://www.youtube.com/channel/UCcs9j6AZWBkrfuLz9W8tknA)">
+ **<a href="https://www.youtube.com/channel/UCcs9j6AZWBkrfuLz9W8tknA" target="_blank">
     ⚡ Chaine Youtube [Kyra Coding]
   </a>**
  
