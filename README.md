@@ -25,8 +25,8 @@
    </p>--!>
    
 <strong/>
-   <p>💡 J'apprends actuellement le JavaScript.</p>
-   <p>📚 Je suis actuellement en train de travailler sur le Projet n°6. </p>
+   <p>💡 J'apprends actuellement React.</p>
+   <p>📚 Je suis actuellement en train de travailler sur le Projet n°8. </p>
 </div>
 
 <img alt="compteur de visites" align="right" src="https://visitor-badge.laobi.icu/badge?page_id=kyra110.kyra110" />
