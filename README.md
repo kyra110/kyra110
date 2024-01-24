@@ -1,7 +1,7 @@
 <!--**kyra110/kyra110** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.--!>
 
 <div align =center>
-   <img  alt="Banière Kyra Coding" width="100%" height="80%" src="https://studio.youtube.com/channel/UCcs9j6AZWBkrfuLz9W8tknA/editing/images" />
+  
    <br/> 
 <div/>
    
