@@ -1,7 +1,7 @@
 <!--**kyra110/kyra110** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.--!>
 
 <div align =center>
-  
+  <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank" />
    <br/> 
 <div/>
    
